@@ -62,4 +62,4 @@
         backup: yes
       with_items:
         - /root/.kube/config
-- /home/{{ admin_user }}/.kube/config
+        - /home/{{ admin_user }}/.kube/config
